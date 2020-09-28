@@ -10,6 +10,8 @@ Complete, no future additions/commits.
 # Screenshot 
 Picture of the CSV file created. 
 The CSV file created in VSCode doesn't display the format properly so using your computer's native CSV viewer (Excel, Numbers, LibreOffice, etc) you're able to properly see the rows, headers, and more.
+https://imgur.com/a/Vf9tmYz
+
 
 # Frameworks, Languages, Libraries
 Python 3.8.2  BeautifulSoup4  csv
